@@ -1,0 +1,45 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publisher": "J.B. Lippincott & Co.",
+        "year": 1960,
+        "isbn": "978-0-06-112008-4"
+      },
+      {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "publisher": "Secker & Warburg",
+        "year": 1949,
+        "isbn": "978-0-452-28423-4"
+      },
+      {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publisher": "Charles Scribner's Sons",
+        "year": 1925,
+        "isbn": "978-0-7432-7356-5"
+      },
+      {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publisher": "T. Egerton, Whitehall",
+        "year": 1813,
+        "isbn": "978-0-19-953556-9"
+      },
+      {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publisher": "Little, Brown and Company",
+        "year": 1951,
+        "isbn": "978-0-316-76948-0"
+      }
+    ]
+  }
+  

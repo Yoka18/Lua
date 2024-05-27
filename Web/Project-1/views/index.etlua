@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= item.title %></title>
+</head>
+<body>
+    <h1><%= item.title %></h1>
+    <p><strong>Author:</strong> <%= item.author %></p>
+    <p><strong>Publisher:</strong> <%= item.publisher %></p>
+    <p><strong>Year:</strong> <%= item.year %></p>
+    <p><strong>ISBN:</strong> <%= item.isbn %></p>
+</body>
+</html>
