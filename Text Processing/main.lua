@@ -1,4 +1,4 @@
-local file = io.open("metin.txt", "r")
+local file = io.open("test.txt", "r")
 local content = file:read("*all")
 file:close()
 
